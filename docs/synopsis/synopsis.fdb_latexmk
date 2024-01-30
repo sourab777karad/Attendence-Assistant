@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1706548615.30792 "p:/Classes/Univeristy/Third Year/Second Semester/Mini Project/docs/synopsis.tex" "synopsis.pdf" "synopsis" 1706548615.86098 0
-  "C:/Users/Krishnaraj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1706548594 82665 3eb0bcc9d631fc78d736d6e53fe0e9b2 ""
+["pdflatex"] 1706633623.76804 "p:/Programs/JavaScript/Attendence-Assistant/docs/synopsis/synopsis.tex" "synopsis.pdf" "synopsis" 1706633624.37679 0
+  "C:/Users/Krishnaraj/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1706555734 82665 3eb0bcc9d631fc78d736d6e53fe0e9b2 ""
   "C:/Users/Krishnaraj/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1706547920 24213147 b228a68799c6ab36c23ae09d2d4901d3 ""
   "C:/Users/Krishnaraj/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
   "C:/Users/Krishnaraj/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/ncntrsbk/pncb8r.tfm" 1136752454 3220 b6773bbcac9cfba5253918edd9066b27 ""
@@ -108,12 +108,16 @@
   "C:/Users/Krishnaraj/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1700599895 4545 9f5ea23ab1c91476c42749893f790666 ""
   "C:/Users/Krishnaraj/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Krishnaraj/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "activity_AA.drawio-1.png" 1706555898 153258 f235a9769648ea8134748e4bb5bebb4b ""
+  "activity_AA.drawio-2.png" 1706555899 173812 d2aace3c22d07b6e5ec6dff0cb8aa3a2 ""
+  "activity_AA.drawio-3.png" 1706555899 83794 488dcc1d3105ac8d867898e1b97a98cd ""
   "aws estimate.jpg" 1706548373 94057 ca585144c881299dcb3ddd91a36c7306 ""
-  "p:/Classes/Univeristy/Third Year/Second Semester/Mini Project/docs/synopsis.tex" 1706548614 10305 0b6aca8792897601c0e6a7debc2d9228 ""
-  "synopsis.aux" 1706548615 2079 e6b70f2f36a3fc6ed026126d361ee5ce "pdflatex"
-  "synopsis.out" 1706548615 2267 dc49ae3283030ac7e678bb49fe75426b "pdflatex"
-  "synopsis.tex" 1706548614 10305 0b6aca8792897601c0e6a7debc2d9228 ""
-  "synopsis.toc" 1706548615 1126 936055ab592d8d612a8664046064644f "pdflatex"
+  "block diagram.png" 1706633142 82050 144da43583b71f12f0df525b41af5fd6 ""
+  "p:/Programs/JavaScript/Attendence-Assistant/docs/synopsis/synopsis.tex" 1706633623 10758 8f0b5aa61e8bf6d094de3849b1acca3e ""
+  "synopsis.aux" 1706633624 2079 c72868f3f69e709ae31216eed4f6a607 "pdflatex"
+  "synopsis.out" 1706633624 2267 1c41254b484634c66ba92519a823d9e9 "pdflatex"
+  "synopsis.tex" 1706633623 10758 8f0b5aa61e8bf6d094de3849b1acca3e ""
+  "synopsis.toc" 1706633624 1126 f94a57249b16109f5bf1d1614fd83b53 "pdflatex"
   (generated)
   "synopsis.aux"
   "synopsis.log"

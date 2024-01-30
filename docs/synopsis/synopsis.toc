@@ -9,5 +9,5 @@
 \contentsline {subsubsection}{\numberline {4.2.3}Amazon DynamoDB:}{2}{subsubsection.4.2.3}%
 \contentsline {subsubsection}{\numberline {4.2.4}Raspberry Pi High-Quality Camera and Raspberry Pi:}{3}{subsubsection.4.2.4}%
 \contentsline {section}{\numberline {5}Cost Estimates from AWS}{3}{section.5}%
-\contentsline {section}{\numberline {6}Block Diagram}{4}{section.6}%
-\contentsline {section}{\numberline {7}Activity Diagram}{4}{section.7}%
+\contentsline {section}{\numberline {6}Activity Diagram}{4}{section.6}%
+\contentsline {section}{\numberline {7}Block Diagram}{7}{section.7}%
