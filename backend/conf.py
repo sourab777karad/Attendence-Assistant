@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Attendance Assistant'
-copyright = '2024, Krishnaraj, Parth, Sourab, Saubhagya'
-author = 'Krishnaraj, Parth, Sourab, Saubhagya'
+copyright = '2024, kpss'
+author = 'kpss'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -16,7 +16,7 @@ author = 'Krishnaraj, Parth, Sourab, Saubhagya'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = []
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 
