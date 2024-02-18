@@ -1,0 +1,3 @@
+[submodule "Attendance-Assistant-Backend"]
+	path = Attendance-Assistant-Backend
+	url = https://github.com/KrishnarajT/Attendance-Assistant-Backend
